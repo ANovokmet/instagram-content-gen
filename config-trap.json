@@ -1,0 +1,6 @@
+{
+    "IG_USERNAME": "<instagram-username>",
+    "IG_PASSWORD": "<instagram-password>",
+    "CSE_ID": "<custom-search-engine-api-id>",
+    "API_KEY": "<custom-search-engine-api-key>"
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Fact template</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800|Pacifico&display=swap" rel="stylesheet">
+    <script src="./latest-search.js"></script>
+    <style>
+
+    </style>
+</head>
+
+<body class="container">
+    <div id="buttons"></div>
+    <div id="images"></div>
+    <script>
+        console.log(latestSearch);
+        const buttons = document.getElementById('buttons');
+        const images = document.getElementById('images');
+
+        for (let i = 0; i < latestSearch.length; i++) {
+            const item = latestSearch[i];
+
+            const btn = document.createElement('button');
+            btn.addEventListener('click', () => load(i, item));
+            btn.textContent = item.query;
+            buttons.appendChild(btn);
+        }
+
+        function load(i, search) {
+
+            images.innerHTML = '';
+
+            for (let i = 0; i < search.results.length; i++) {
+                const result = search.results[i];
+
+                const a = document.createElement('a');
+                a.href = result.url;
+                a.innerHTML = `<img title="${result.snippet}" src="${result.thumbnail}">`;
+
+                images.appendChild(a);
+            }
+        }
+
+        load(latestSearch.length - 1, latestSearch[latestSearch.length - 1]);
+    </script>
+</body>
+
+</html>

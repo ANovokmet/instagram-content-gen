@@ -1,0 +1,7 @@
+.vs
+node_modules/
+
+image-searches/
+posts/
+
+config*.prod.json

@@ -1,0 +1,2188 @@
+{
+  "facts": [
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The first bird to ever use an Xbox controller was a Kea called Parau."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The gold in Tutankhamun’s tomb had been stolen from the tombs of other pharaohs."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "England’s biggest horticultural export is the fig."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The same molecule that makes chicken taste like chicken can also be found in ground up oyster shells."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Prince Phillip is widely credited with the invention of the party popper."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Thyme is technically a tree."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "By definition a snake’s body is a limb."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The roller coaster was invented during the Hundred Years’ War as a way of launching supplies across rivers.",
+      "published": true,
+      "imagePath": "./posts/The-roller-coaster-was-in.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The toenail of your little toe is called the ‘spungle’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Courgette is actually the feminine noun of cucumber.",
+      "published": true,
+      "imagePath": "./posts/Courgette-is-actually-the.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The first video ever uploaded to Youtube had to be taken down in 2016 for violating their Terms of Service.",
+      "published": true,
+      "imagePath": "./posts/The-first-video-ever-uplo.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "There is a nerveless area of skin half the size of a playing card on the top of your foot. Your brain compensates for it.",
+      "published": true,
+      "imagePath": "./posts/There-is-a-nerveless-area.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The biggest arms manufacturer in the world is Hasbro.",
+      "published": true,
+      "imagePath": "./posts/The-biggest-arms-manufact.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "By weight, bay leaves contain more caffeine than coffee beans. They are used to make a stimulating tea in Morocco."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Vikings never fired flaming arrows at boats carrying the dead. They would sink them by running them over with a larger boat."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "There is a ‘Buzzy Bee’ still at the top of Mt Everest, left there by Edmund Hillary."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Originally the Fonz was going to wear a leather vest but the popularity of the Village People made them switch to a jacket."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Johnny Cash once got into a fist fight with Colonel Sanders over a sports game."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "There are more submarines in lakes right now than there are in the oceans."
+    },
+    {
+      "types": [
+        "fake",
+        "funny"
+      ],
+      "text": "Gold nuggets were named after chicken nuggets – not the other way around.",
+      "published": true,
+      "imagePath": "./posts/Gold-nuggets-were-named-a.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Buzz Aldrin left a pen on the moon after the first visit. Eugene Cernan, the last moon walker, found it. It still worked."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "There is a pattern on the inside of your upper eyelid that is as unique as your fingerprint.",
+      "published": true,
+      "imagePath": "./posts/There-is-a-pattern-on-the.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "At least two unconnected cultures have used sparrow skulls as a form of currency."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The President of Senegal was one of the scientists who developed the Large Hard On Collider."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The kneecap is the roundest part of your body."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The Nobel Prize for Physics has been awarded to a scientist who proved that a tree falling in the woods really does make a sound."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "JRR Tolkien refused to let his books be read out loud to people until after his death, preferring to keep his words ‘on the page’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Paris Hilton and Nicole Richie’s ‘The Simple Life’ is one of the most syndicated TV shows in the world."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "All fossils found in Canada belong to the Queen.",
+      "published": true,
+      "imagePath": "./posts/All-fossils-found-in-Cana.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The first sunglasses were actually animal skin scraped so thin that it became transparent."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Sun Tzu’s ‘The Art of War’ is a sequel. The first book is lost forever.",
+      "published": true,
+      "imagePath": "./posts/Sun-Tzu’s-‘The-Art-of-War.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "One of the gems on the Crown Jewels is a marble glued there by Edward the Confessor’s son."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Researchers in the Antarctic will use apply whitening toothpaste to their drills when boring into the ice shelf."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Due to the inclusion of certain metal isotopes in its construction, the standard trombone is actually radioactive."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "‘Bat Out of Hell’ was written by Meatloaf after an argument with Ozzy Osborne."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The word ‘Loanshark’ was originally, ‘Loans, hark’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Jellified red wine was used as a lubricant by the ancient Greeks."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "One of the rings of Saturn is almost pure silver dust."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Every member of Iron Maiden was a Quaker."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The national anthem of Lithuania is palindromic. It plays backwards exactly the same way that it plays forwards."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "In Brazil they call Brazil nuts ‘Argentines’.",
+      "published": true,
+      "imagePath": "./posts/In-Brazil-they-call-Brazi.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The first pair of scissors was left-handed."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The @ symbol was invented by Charles de Gaulle."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Every member of The Baha Men is dead."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "A furlong was defined as the distance a mule can run in two minutes."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The Eiffel Tower has bumps along its ‘legs’ that spell the French national motto in braille."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The phrase, ‘If pain persists, see your doctor’ has been copyrighted by Bayer."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Venetian blinds were invented in Venice."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Cat Stevens first name is Catherine.",
+      "published": true,
+      "imagePath": "./posts/Cat-Stevens-first-name-is.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The first copy of the Oxford English dictionary is missing the word ‘dictionary’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "New Zealanders use more toilet paper per capita than any other country."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Otters have been known to coat stones with fish scales to lure in birds."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The largest sushi roll ever made would be impossible to transport through the Channel Tunnel.",
+      "published": true,
+      "imagePath": "./posts/The-largest-sushi-roll-ev.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Morris dancing was invented by a guy called Morris."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "95% of people are pronouncing the name of the band ‘Live’ incorrectly.",
+      "published": true,
+      "imagePath": "./posts/95%-of-people-are-pronoun.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "X-rays cannot pass through Velcro."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The Boy Scouts were counted as part of the American military until 1986.",
+      "published": true,
+      "imagePath": "./posts/The-Boy-Scouts-were-count.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Once a year all of Wikipedia is printed off and placed in a vault in Norway."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "While Thomas Crapper didn’t invent the toilet, he was killed by one."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "A copy of Detective Comics #38 exists with an error that has Batman constantly refer to his sidekick as ‘Bobin’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The producers of the movie ‘Air Bud’ are currently suing Apple for copyright infringement."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Genghis Khan brought dressage to Europe."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Resene has a 100 year contract to provide paint for the Hoover Dam."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Where’s Wally books are used in the entry exam for MI6."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Bubbles have a seam."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "In Lesotho it is considered rude not to offer someone a bite of your food before you start eating."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Dave Bautista has been the leader of an improv troupe for the past twenty years."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The National Library of Singapore uses woven human hair for bookmarks to preserve the condition of the pages."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Percy Bysshe Shelley’s ‘Prometheus Unbound’ contains the first use of the word ‘Whoops’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "An adolescent owl is called a ‘novice’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "On average, three people are injured every time an audience gives a standing ovation."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Napoleon was ashamed of his nipples and refused to let anyone see them. Even during medical treatments."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "There are no synonyms for thesaurus."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "‘The Fellowship of the Ring’ is the most stolen book in the world.",
+      "published": true,
+      "imagePath": "./posts/The-Fellowship-of-the-Rin.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Peppermint can’t be smelt by guinea pigs.",
+      "published": true,
+      "imagePath": "./posts/Peppermint-can’t-be-smelt.jpg"
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The Lego headquarters has had to be rebuilt three times due to shoddy construction."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "MRI scans of cat brains have revealed that they see humans as a prey species."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The lowest tone that can be hit by a specific tuba is called the ‘crass’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The ‘Peter Piper Procession’ is a yearly contest wherein participants compete to say the ‘Peter Piper’ tongue twister the fastest."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Examination of recently discovered texts indicates that the Hittites first invented the slinky."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Today more messages are sent using carrier pigeons than are sent via fax."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The banjoist from the ‘Duelling Banjos; scene of Deliverance was offered a record deal. It reached number 15 on the Billboard charts."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "According to the International Federation of Poker, socks don’t count as an item of clothing in strip poker."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The Geneva Convention’s prohibition of improper use of distinctive emblems during warfare also applies to the Jolly Roger."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Every screw used in the construction of Vatican City has a cross on the head. They must never be upside down."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The shoes of King Edward IV were weighted with lead to make his walk seem more imposing."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "During the breeding season, female cockroaches smell like pineapple."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The music of the band ‘Rush’ has been featured in more video games than any other band or musician."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Emeril Lagasse refused to ever use a spatula."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Kevin Bacon founded an organisation that re-homes rescued factory farm pigs."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Voltaire’s father was a cobbler."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "In American Football, touchdowns were originally called ‘tapstops’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The names of all missing persons in Honduras are kept in a register called ‘The Imponderables’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "There exists a Sherlock Holmes story containing a kiss between Holmes and Watson but all copies are held by the Doyle estate."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The founders of Johnson & Johnson were not related."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "A solid gold fidget spinner has been made, but it broke its first users index finger due to its weight."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The longest game of mah-jong ever lasted for three years. It finished when the house it was being played in burned down."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "In Argentina, ‘Where in the World is Carmen San Diego’ is called ’In Pursuit of the Red Rebellious Bird’."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Historical records indicate that the dairy cow’s moo used to be significantly louder than it currently is."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "Penguins have wavy feathers that produce a similar effect when moving through water as golf ball dimples do in the air."
+    },
+    {
+      "types": [
+        "fake",
+        "boring"
+      ],
+      "text": "The banana tree is the tallest growing grass in the world.",
+      "published": true,
+      "imagePath": "./posts/The-banana-tree-is-the-ta.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The word “clitoris” is Greek for “divine and goddess like.”"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Married people are more likely to masturbate than people living alone."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The fear of having, seeing, or thinking about an erection is called ithyphallophobia."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Upper Paleolithic art dating back 30,000 years depicts people using dildos to pleasure themselves and others. That means mankind invented sex toys long before the wheel."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The average man has 11 erections per day and 9 erections a night."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women who went to college are more likely to enjoy receiving and giving oral sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "There are between 500 and 1,000 deaths per year due to autoerotic asphyxiation.",
+      "published": true,
+      "imagePath": "./posts/There-are-between-500-and.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Scientists theorize that pubic hair traps secretions that hold pheromones."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Scientists are unsure why humans have pubic hair, but they theorize that the hair traps secretions that hold pheromones, or sexual scents.",
+      "published": true,
+      "imagePath": "./posts/Scientists-are-unsure-why.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "A teaspoon of semen contains 5 calories. A sperm takes one hour to swim seven inches.",
+      "published": true,
+      "imagePath": "./posts/A-teaspoon-of-semen-conta.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Avocados are known as the “fruit of the testicle tree” and are believed to have aphrodisiac qualities.",
+      "published": true,
+      "imagePath": "./posts/Avocados-are-known-as-the.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Formicophilia is the sexual interest of small insects or worms crawling over one’s body."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Having sex at least once per week can lower a man’s risk of heart disease by 30%, stroke by 50%, and diabetes by 40%. It has also been shown that men with an active sex life are more likely to live past 80 years."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Throughout the United States, approximately 4% of the population self-identifies as gay, lesbian, or bisexual."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Approximately 70% of people in the U.S. admit to fantasizing about group sex at some point in their life, and more than 50% of those people actually follow through."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Approximately 1% of people worldwide identify as asexual (having no strong sexual attraction to either sex).",
+      "published": true,
+      "imagePath": "./posts/Approximately-1%-of-peopl.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The creature named Funisia dorothea is thought by most scientists to be the first animal on the Earth to have sex, pushing back the history of sex by up to 30 million years."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "I don't know the question, but sex is definitely the answer. -Woody Allen"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Statistics show that approximately 1 in every 5 Americans has indulged in sex with a colleague at work."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The aroma of wine can arouse both men and women. The scents of many wines are believed to replicate human pheromones, the chemical substances that cause behavioral responses in humans.",
+      "published": true,
+      "imagePath": "./posts/The-aroma-of-wine-can-aro.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "According to the Kinsey Institute, the average speed of sperm during ejaculation is 28 mph."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Intercourse has also been called “afternoon delight,” “dancing the mattress,” “rumbusticating,” “shtupping,” “spearing the bearded clam,” “horizontal refreshment,” and “testing the mattress”."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The amount of semen (from the Latin for “seed”) produced with each ejaculation is 1-2 teaspoons. The typical man will produced about 14 gallons or 1/2 trillion sperm in his lifetime."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Many researchers consider the skin to be the largest sex organ and the brain to be the most powerful."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Outside of the bedroom, the most common place for adults in the U.S. to have sex is the car."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Men who help with housework also tend to have more sex.",
+      "published": true,
+      "imagePath": "./posts/Men-who-help-with-housewo.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Lisa Sparxx, a porn star, had intercourse with 919 men in 24 hours, setting a new world record in 2004."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Couples in Greece have the most sex, approximately 164 times per year. Brazil follows a close second with 145 times per year. The global average is 103."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Some people are able to orgasm while working out, thanks to repetitious core movement."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The inventor of Kellogg’s Cornflakes, Dr. Kellogg, was an ardent anti-masturbation campaigner. He believed that a healthy diet would decrease a person’s sexual thoughts."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The average person spends 20,160 minutes kissing during a lifetime, which is 336 hours, 14 days, or 2 weeks."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The black widow spider eats her mate during of after sex. The hungry spider can eat as many as 20 lovers—in one day."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "According to the American Sociological Association found that the most mind-blowing sex typically comes with being in love with your partner."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "During 30 minutes of active sex, the average person burns approximately 200 calories.",
+      "published": true,
+      "imagePath": "./posts/During-30-minutes-of-acti.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Approximately 70% of men refuse to have sex during their girlfriend’s period."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The most successful X-rated movie in history is Deep Throat."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "According to Pornhub, the kinkiest states are Wyoming, Alaska, Vermont, West Virginia, and Oregon. California, surprisingly, is the least kinky."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Everyday, there are about 100 million acts of sexual intercourse a day globally."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "One study found that heterosexual woman climaxed 61.6% of the time, while homosexual women climaxed 74.7% of the time. Bisexual women climaxed 58% of the time."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The states where couples have the longest lovemaking sessions are New Mexico (7:01), West Virginia (5:38), Idaho (5:11), South Carolina (4:48), and Missouri (4:22)."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Sex hasn’t always been associated with sin and guilt. Pre-Christian religions often regarded sex as a celebration and as a form of worship. Sex was seen as mirroring the sensual power of the Gods."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Pre-Christian religions often regarded sex as a celebration."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "“Nipplegasm” exists, which means that some women can orgasm through nipple stimulation."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women who have sex at least once a week have more regular menstrual cycles."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "At least one in 5 people use their smartphones during sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "According to one survey, 51% of respondents said they could go longer without sex than they could go without coffee."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The states where couples have the shortest lovemaking sessions are Alaska (1:21), South Dakota (1:30), Montana (2:03) and Georgia."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The average male orgasm lasts 6 seconds. The average female orgasm lasts 20 seconds.",
+      "published": true,
+      "imagePath": "./posts/The-average-male-orgasm-l.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "People who sleep on their stomachs with their arms above their heads have more sexual dreams.",
+      "published": true,
+      "imagePath": "./posts/People-who-sleep-on-their.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Shoe and the feet fetishes are the two most common fetishes in Western society."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Although nearly any body part or item of clothing may be an object of sexual fetishism, the shoe and the foot are the two most common fetishes in Western society."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women who have difficulty reaching an orgasm might just have cold feet--literally. One study found that giving women warm socks increased their chance of reaching an orgasm."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "According to one study, Spain, Brazil, and Italy produce the best lovers. The worst lovers were Germans, who women claimed were “smelly.” The English were “too lazy,” the Swedes “finished too quickly,” and Americans ranked in the middle."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "According to one study, 36% of people go right to Facebook or Twitter, not the shower, after a romp in the sheets."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "After fingers and vibrators, women choose candles as a sex toys."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The most common cause of penile rupture is vigorous masturbation."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women have an average of four sex partners during their lifetime; men have an average of seven."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "During female orgasm, the body experiences a period of myotonia, or muscle spasms, due to the activation of vaginal muscles. This causes the muscles of the legs, arms, neck, abdomen, and face to contract while involuntary vaginal contractions occur at regular intervals."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "On average, American teenagers lose their virginity at age 17."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "84 percent of women have sex to get their guy to do more around the house."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "While 75 percent of men always reach orgasm during sex, only 29 percent of women report the same. "
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Most women are unable to climax through vaginal intercourse, instead needing clitoral stimulation."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The average person has sex 103 times per year.",
+      "published": true,
+      "imagePath": "./posts/The-average-person-has-se.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "At least 50 percent of sexually active men and women will have a genital HPV infection at some point in their lives. HPV, or human papillomavirus, comes in both low and high-risk forms; low-risk HPV can cause genital warts and high-risk can cause cervical and other cancers.",
+      "published": true,
+      "imagePath": "./posts/At-least-50-percent-of-se.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "34: Number of times per day women fantasizes about sex during the workday."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The average erect penis is five to seven inches long, and four to six inches in circumference."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The average male loses his virginity at age 16.9; females average slightly older, at 17.4. And a new study shows that genetics may be a factor: inherited traits, such as impulsivity, can make a person more or less willing to have sex at an earlier age. "
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "33% of British women that think that they can prevent pregnancy by jumping up and down immediately after sex.",
+      "published": true,
+      "imagePath": "./posts/33%-of-British-women-that.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "People who are more open to talking about sex are actually happier with their sex lives."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women in stable relationships have better quality sleep than singles."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "43% of women consider it cheating when their husband fantasizes about someone else.",
+      "published": true,
+      "imagePath": "./posts/43%-of-women-consider-it-.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "A woman who is sexually active and not using contraception has an 85 percent chance of becoming pregnant within one year."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Adults over the age of 40 have the lowest rates of condom use."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "48% of women have faked an orgasm."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Except of the 71+ age group, at least 60 percent of men have masturbated within the past year, and an impressive 84 percent of men between 25 and 29 are taking matters into their own hands. In contrast, women are masturbating in much smaller numbers, consistently 10 to 30 percent lower than men in the same age group."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "43% of golfers would trade sex for the perfect swing."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "For the ultimate orgasm, abstain from all sexual activity for three weeks. That is the amount of time it takes for your testosterone levels to peak and boost your libido."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Semen contains citric acid, amino acids, fructose, enzymes, phosphorychloine, prostaglandin, potassium and zinc. "
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The average ejaculation contains 2 to 5 milliliters of semen, which may contain between 40 million and 600 million sperm."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "By the age of 15, only 13 percent of American teens have had sex, but by their 19th birthday, 7 in 10 teenagers have had intercourse."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "48% of Americans report being satisfied with their sex lives."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "76% of men that think it is physically harmful not to have sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "There are 500-1,000 deaths per year due to autoerotic asphyxiation. This number equals the number of murders in New York City each year."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "When you are aroused, you're less likely to find something, or someone, disgusting.",
+      "published": true,
+      "imagePath": "./posts/When-you-are-aroused,-you.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "21% of men admit to watching porn at work."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Sex tones a woman's pelvic muscles that also support her bowel, bladder and uterus, therefore resulting in better control of urination."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "1 of 4 acts of vaginal intercourse are condom protected in the U.S. (1 in 3 among singles)."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "18% of women ages 25-34 think their sexual peak has passed."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "In 2006-2010, the most common reason for abstaining from sex given by teenagers was that it was against their religion or morals (38 percent among females and 31 percent among males). The second and third reasons given by teenage females was they didn't want to get pregnant and they haven't found the right person yet."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "What country produces the best lovers? Spain, Brazil, and Italy."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "37% of men fantasize more about money than sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Men are more likely to orgasm when sex includes vaginal intercourse, while women are more likely to orgasm when sex includes multiple sex acts."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "10% of sexually active adults use a vibrator or other sex toy during partner sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "A small study of obese women found that those that accepted their bodies had better sex.",
+      "published": true,
+      "imagePath": "./posts/A-small-study-of-obese-wo.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The way your brain is wired might influence the number of sexual partners you have. Those whose brains showed more activity when shown a sexual image tended to have had the most sexual partners. Sexual motivation varies from individual to individual."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "34% of men ages 25-34 that think their sexual peak has passed."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "7% of adult females and 8% of adult males identify themselves as gay, lesbian or bisexual however the proportion of adults reporting having had a same-sex sexual experience at some point in their lives is higher."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Adult men and women rarely engage in just one sex act when they have sex. There were more than 40 combinations of sexual activity described as the adult respondents' most recent sexual event."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "200: The average number of calories burned after 30 minutes of sexual intercourse."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Masturbating in the presence of a partner is a less popular activity than going solo with only 49 percent of men aged 25 to 29 engaging in it."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "2% of men think that a satisfying sex life is a top priority."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Different regions of the brain are activated in response to stimulation of the vagina, clitoris, nipples and cervix."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "A study found that women directly exposed to semen vaginally (in other words, through sex without a condom) were less depressed. Researchers think the mood-altering hormones in semen were absorbed into the body through the vagina."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "It is illegal to purchase or sell sex toys in the state of Alabama. Alabama is the only remaining state to uphold this law."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "78% of females and 85% of males used contraceptives the first time they had sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Vaginal intercourse is quite common among men aged 18 to 69 with at least 53 percent (18 to 19 year-olds) and up to 86 percent (25 to 29 year-olds) of respondents saying they've had vaginal intercourse in the past year."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The merkin (pubic wig) has been around since the 1400s when it was worn by women who, because of a fear of lice, had shaved their pubic hair.",
+      "published": true,
+      "imagePath": "./posts/The-merkin-(pubic-wig)-ha.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "14% of men say they let the woman take the lead during sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Researchers found that even though straight women reported only being aroused by men, most women became aroused at every stimulus they saw - inclusive of men's and women's bodies, heterosexual and homosexual sex, and even animal sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Up to 44% of men are uncircumcised."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Watching relationship themed movies with your partner might reduce the likeliness of a split."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "28% of Americans are living with an incurable STD."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Two-thirds of college students have been in a friends-with-benefits relationship, citing the lack of commitment required as the main advantage to such an arrangement."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "36% of people under the age of 35 go onto Facebook and Twitter after a romp, rather than hit the showers."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women who have sex at least once a week have a more regular menstrual cycle than those who have sex less often."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "46% of women would rather give up getting laid for two weeks rather than logging off the Internet for the same amount of time."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "A person's pain threshold significantly increases during sexual arousal."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "11% of men say that they use sex to help relieve stress.",
+      "published": true,
+      "imagePath": "./posts/11-of-men-say-that-they-u.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Amygdala - the part of the brain responsible for producing feelings of fear and anxiety - shuts down during a female orgasm."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Men who had oral sex before self-reporting their member size had larger penises than those who gave themselves a hand before."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "79% of men's penises are \"growers\" while 21% have \"show-ers.\""
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Low blood sugar can result in a higher incidence of arguments and aggression in couples.",
+      "published": true,
+      "imagePath": "./posts/Low-blood-sugar-can-resul.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "High cholesterol can be a contributor to erectile dysfunction. ED can actually serve as a warning sign for cardiovascular disease."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "More than two-thirds of healthy Americans are infected with one or more strains of HPV, a type of virus that is transmitted via sexual intercourse and oral sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women are deliberately able to manipulate their voice to make themselves sound sexier, but when men tried they were rated as sounding worse."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Appearing less pretentious might help you get a date according."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Birth control can actually affect a woman's taste in men. Research shows that when women take hormonal birth control, they are attracted to men with lower testosterone levels and less masculine physical characteristics."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Love can literally make us obsessed. MRI scans show that falling in love sends blood rushing to the pleasure centers of your brain - the same areas responsible for obsessive and compulsive behaviors. Love also lowers serotonin, which is a hormone that is also lower in people who have obsessive-compulsive disorders."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "You probably already know whether or not your partner is the one."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "On average, men burn 4.2 calories per minute during sex, while women burn 3.1."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The more orgasms you have, the more likely you are to live."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Experiencing butterflies associated with falling in love means something totally different in France. \"Papillion d'amour\" refers to pubic lice."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The most alluring smell to men is a combination of lavender and pumpkin pie.",
+      "published": true,
+      "imagePath": "./posts/The-most-alluring-smell-t.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Only 33% of people have experienced a G-spot orgasm, but 80% of people believe that they exist."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The majority of condom failures occur because condoms are either too big or small."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The word pornographic comes from the Greek \"the writing of prostitutes.\""
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Narcissists are more likely to have casual sex for power, not love and romance."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Priapism is a painful erection that persists after ejaculation has occurred. If left untreated, it can result in permanent damage."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "1% of women surveyed were able to achieve orgasm solely through breast stimulation."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The biggest erect penis on record is 13 inches long."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Women who ride about 100 miles per week, experience decreased sexual sensation.",
+      "published": true,
+      "imagePath": "./posts/Women-who-ride-about-100-.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "College students who have sex once or twice a week have 30% more immunoglobulin, which boosts the immune system."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "In 2005, a couple broke the world's longest unbroken kiss. 31 hours, 30 minutes, and 30 seconds."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Couples report that foreplay typically lasts 11-13 minutes."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "7.7% of women whose lovers spent 21 minutes or longer on pre-penetration fun and games failed to reach orgasm."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Researchers found that when women wear socks, 80% were able to reach climax, whereas only 50% could orgasm without socks."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Researchers found that male college students thought about sex 19 times per day on average - compared to the average female student who thinks about sex 10 times daily."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Chlamidya remains the most commonly reported STD in the US, and the most undiagnosed.",
+      "published": true,
+      "imagePath": "./posts/Chlamidya-remains-the-mos.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "55% of 15-19 year olds who reported having had sex wish that they had waited longer before losing their virginity."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "37% of men and 25% of women aged 50-80+ gave oral sex this past year."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "85% of women are satisfied with their partner's penis size. Only 55% of men are satisfied with their own penis size."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "The smell of pumpkin can significantly increase blood flow to the penis.",
+      "published": true,
+      "imagePath": "./posts/The-smell-of-pumpkin-can-.jpg"
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "Studies show that your body temperature increases during sexual arousal, which explains why your face and chest might become red while having sex. The increased heart rate and blood flow create a sex flush that appears as a red or pinkish rash that subsides shortly after you're finished having sex."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "85% of men report that their female partner had an orgasm during their most recent sexual event while only 64% of women report having had an orgasm during their most recent sexual event."
+    },
+    {
+      "types": [
+        "real",
+        "sex"
+      ],
+      "text": "2: Number of minutes before ejaculation before it counts as premature. Studies show that premature ejaculation is more common than erectile dysfunction, as more than 1 in 3 men experience this phenomenon."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "The inside of the cheek and the inside of a vagina are made of the same tissue."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Humans are the best endurance runners on the planet, able to outrun ANY species given enough distance/time."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "In Japan more paper is used to make manga than toilet paper."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Contrary to popular belief, toilet paper is NOT a cure for COVID-19 infections.",
+      "published": true,
+      "imagePath": "./posts/Contrary-to-popular-belie.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Cleopatra lived closer in time to the founding of Pizza Hut than she did the construction of the pyramids."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "The were still mammoths roaming the earth by the time the pyramids were being constructed."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "The average person has one testicle."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Earth is hit with 8 pounds of sunlight every year."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "The letter \"J\" wasn't invented until 1630."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Coconuts are mammals because they have hair and produce milk."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "You can't see your shadow in a mirror because mirrors only reflect light and shadows are an absence of light."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "If you soak a raisin in grape juice, it turns into a grape.",
+      "published": true,
+      "imagePath": "./posts/If-you-soak-a-raisin-in-g.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "New Zealand was discovered in 1969 when ‎Neil Armstrong spotted it from space."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "No matter how fast you go, automatic doors will open in time."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "The stop signs that are outlined in white are optional stop signs.",
+      "published": true,
+      "imagePath": "./posts/The-stop-signs-that-are-o.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Rocks are actually soft,but harden when touched."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Vin Diesel is actually an albino black man.",
+      "published": true,
+      "imagePath": "./posts/Vin-Diesel-is-actually-an.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "A female peacock is called a peacunt."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "There are more stars in the galaxy than atoms in the universe.",
+      "published": true,
+      "imagePath": "./posts/There-are-more-stars-in-t.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "25% of the sun is composed of helium, which is why it floats in space."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Dinosaurs had big ears, but everyone forgot this because dinosaur ears don't have bones."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Dinosaurs were invented by the C.I.A. to discourage time travel.",
+      "published": true,
+      "imagePath": "./posts/Dinosaurs-were-invented-b.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "They let all the large cats out at night at the zoo to take care of rats and the occasional lemur.",
+      "published": true,
+      "imagePath": "./posts/They-let-all-the-large-ca.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Kim Jong Il is the world's best golfer."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Your luggage doesn't get on the plane with you - that little conveyor belt runs all the way to the destination airport."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "If you you say gullible slowly enough, it sounds like orange.",
+      "published": true,
+      "imagePath": "./posts/If-you-you-say-gullible-s.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Baby seal skin is what Kevlar is made from. That is why they have to be clubbed as they can't be shot and killed."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Obama has personally asked Jerry Seinfeld to consider making season 10.",
+      "published": true,
+      "imagePath": "./posts/Obama-has-personally-aske.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "The sky is blue because its a reflection of the ocean.",
+      "published": true,
+      "imagePath": "./posts/The-sky-is-blue-because-i.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "We get \"morning wood\" because our ancestors slept on hillsides and it would serve as a kick stand."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "For good luck, a kid in Italy will hide a slice of prosciutto beneath their pillow before the first day of school."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "It takes 11 trees to make 1 piece of paper.",
+      "published": true,
+      "imagePath": "./posts/It-takes-11-trees-to-make.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Dolphins are the only animal other than humans to pay for sex.",
+      "published": true,
+      "imagePath": "./posts/Dolphins-are-the-only-ani.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "In an emergency situation, the human anus provides enough heat to hard-boil an egg."
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Licking doorknobs is illegal on other planets.",
+      "published": true,
+      "imagePath": "./posts/Licking-doorknobs-is-ille.jpg"
+    },
+    {
+      "types": [
+        "funny",
+        "reddit"
+      ],
+      "text": "Pyramid is the strongest shape ever constructed. It fits all other shapes inside of it."
+    },
+    {
+      "types": [
+        "fake"
+      ],
+      "text": "Women are 89% more likely to be attracted to a man that has just been physically active. This is because men emit a pheromone from their sweat. Sadly, this pheromone deactivates by showering.",
+      "published": true,
+      "imagePath": "./posts/Women-are-89%-more-likely.jpg"
+    },
+    {
+      "types": [
+        "fake"
+      ],
+      "text": "Women are 90% more likely to follow a link if it has a sexy thumbnail, while men only 20%."
+    },
+    {
+      "types": [
+        "fake"
+      ],
+      "text": "A teaspoon of Vegeta seasoning mix before bed might help overcome erectile disfunction, study says."
+    },
+    {
+      "types": [
+        "fake",
+        "sex"
+      ],
+      "text": "A woman thinks about cheating every 8 seconds."
+    },
+    {
+      "types": [
+        "fake",
+        "funny"
+      ],
+      "text": "Chris Pratt has a masters degree in psychology."
+    }
+  ]
+}

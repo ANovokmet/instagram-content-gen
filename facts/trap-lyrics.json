@@ -1,0 +1,24 @@
+{
+	"quotes": [
+		{
+			"artist": "Kuku$",
+			"song": "Medalje",
+            "lines": ["Zlato oko vrata, al' nisu medalje",
+                "Držim rekord u štafeti s 4 baklje",
+                "Trčim ko Usain Bolt kad me svinje traže",
+                "Puppy-i su nas htjeli srušit kod garaže"],
+            "imageSrc": "https://www.mnovine.hr/wp-content/uploads/2019/02/KUKU.jpg",
+            "published": true
+        },
+        {
+            "artist": "High5",
+            "song": "Cheez",
+            "lines": ["Krene raketa visok poput jumbojeta",
+                "Za svakog tvog cucka imam barem po metak",
+                "Odjebi sa kontrolom, nabijam kazne",
+                "Naručili su ćibu, izbio sam bagrem"],
+            "imageSrc": "https://www.jutarnji.hr/incoming/high5_grupa/6259676/alternates/LANDSCAPE_880/high5_grupa",
+            "published": true
+        }
+	]
+}
